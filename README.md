@@ -1,6 +1,6 @@
 # What is it?
 
-In one line, it is a docker container image with a pre-installed version of yaafe.
+In one line, it is a [docker](https://www.docker.com/) container image with a pre-installed version of [yaafe](http://yaafe.sourceforge.net/index.html).
 Yaafe can be quite complicated to build and the process varies from one os/distro to another. With this docker 
 container you get a shared workspace between your host and container, all the yaafe commands are executed in the container
 and the results are saved in the shared workspace. 
