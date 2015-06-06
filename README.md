@@ -1,4 +1,4 @@
-# What is it?
+# What is it
 
 In one sentence, it is a [docker](https://www.docker.com/) container image with a pre-installed version of [yaafe](http://yaafe.sourceforge.net/index.html).
 Yaafe can be quite complicated to build and the process varies from one os/distro to another. With this docker 
