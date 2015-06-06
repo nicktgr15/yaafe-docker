@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker run -w /workspace -v $(pwd):/workspace -it --rm=false yaafe-docker yaafe $@
