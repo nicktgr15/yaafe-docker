@@ -17,8 +17,7 @@ make build
 
 ## Extract features
 
-As an example, we can extract the MFCCs and the SpectralFlatness from all the provided sample wave files under 
-wav_samples by doing:
+As an example, we can extract the MFCCs and the SpectralFlatness from the provided sample wave files by doing:
 
 ```
 ./yaafe -c featureplan -r 44100 wav_samples/*
